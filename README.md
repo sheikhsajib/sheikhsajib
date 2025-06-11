@@ -81,7 +81,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/apache.svg" alt="Apache" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/cpanel-icon.svg" alt="cPanel" width="40"/>
 </p>
 
 ---
@@ -90,7 +89,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40"/>
 </p>
 
@@ -109,10 +107,8 @@
 
 ### 🧰 Miscellaneous
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/quality.png" alt="QA" width="40"/>
   <img src="https://img.icons8.com/color/48/report-card.png" alt="Jasper Reports" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/seo.png" alt="SEO" width="40"/>
   <img src="https://img.icons8.com/color/48/design.png" alt="Graphic Design" width="40"/>
 </p>
 
