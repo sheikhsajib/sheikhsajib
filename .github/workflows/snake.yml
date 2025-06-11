@@ -1,0 +1,26 @@
+name: 🐍 Sajib Snake Trail
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-snake:
+    runs-on: windows-latest
+
+    steps:
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🌀 Generate Snake Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sheikhsajib
+          output_file: ./output/github-contribution-grid-snake.svg
+
+      - name: 🚀 Commit and Push Snake SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🔁 Update Sajib's Snake Trail"
+          add: "output/github-contribution-grid-snake.svg"
