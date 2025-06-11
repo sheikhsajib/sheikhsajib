@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 About Me <img src="https://i.imgur.com/QwUcmEi.png" width="25" style="vertical-align:middle;" />
+### 💡 About Me
 
 <p>
   I'm <strong>Sheikh Sajib</strong>, a passionate Full Stack Java Developer with 1.6 years of professional experience in designing, developing, and maintaining scalable software solutions. I love solving complex problems using Java, Spring Boot, and modern frontend technologies like Angular and Flutter.
@@ -111,6 +111,17 @@
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" width="40"/>
   <img src="https://img.icons8.com/color/48/design.png" alt="Graphic Design" width="40"/>
 </p>
+
+---
+
+### 🧱 3D Modeling
+
+<div align="center" style="padding: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" style="margin: 0 12px;" />
+  <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD 2022" width="40" style="margin: 0 12px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/512/512462.png" alt="Sketchfab" width="40" style="margin: 0 12px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2674/2674027.png" alt="ETABS" width="40" style="margin: 0 12px;" />
+</div>
 
 ---
 
