@@ -31,7 +31,7 @@
 
 ---
 
-## 📱 Mobile Application Development
+### 📱 Mobile Application Development
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Front-End Web Development
+### 🧠 Front-End Web Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🗄️ Database Management
+### 🗄️ Database Management
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## ☁️ API & Hosting
+### ☁️ API & Hosting
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/apache.svg" alt="Apache" width="40"/>
@@ -86,7 +86,7 @@
 
 ---
 
-## 🧪 Tools & Workflow
+### 🧪 Tools & Workflow
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
@@ -96,7 +96,7 @@
 
 ---
 
-## 🎨 Design & UI Tools
+### 🎨 Design & UI Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40"/>
@@ -107,7 +107,7 @@
 
 ---
 
-## 🧰 Miscellaneous
+### 🧰 Miscellaneous
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/quality.png" alt="QA" width="40"/>
   <img src="https://img.icons8.com/color/48/report-card.png" alt="Jasper Reports" width="40"/>
