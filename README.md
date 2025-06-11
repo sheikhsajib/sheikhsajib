@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Sheikh Sajib</span></h1>
-<h3 align="center">💻 Full Stack Java Developer | 📱 Android & Flutter Enthusiast</h3>
+<h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheikhsajib&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
@@ -22,7 +22,7 @@
 <ul>
   <li>🔭 <strong>Currently working on:</strong> Garments Management System, Flutter-based Quiz Applications.</li>
   <li>🌱 <strong>Learning more about:</strong> Docker, REST APIs, Oracle 19c, QA with Postman.</li>
-  <li>🤝 <strong>Collaborations:</strong> Open to projects involving Spring Boot, Android, and Cloud Firestore integration.</li>
+  <li>🤝 <strong>Collaborations:</strong> Open to projects involving Spring Boot and Cloud Firestore integration.</li>
   <li>💬 <strong>Topics I enjoy:</strong> Full-stack Java architecture, RESTful services, mobile-first design.</li>
   <li>📫 <strong>Email:</strong> <a href="mailto:sajibsheikh9@gmail.com">sajibsheikh9@gmail.com</a></li>
   <li>🌐 <strong>Website:</strong> <a href="https://www.sheikhsajib.com">sheikhsajib.com</a></li>
@@ -118,7 +118,7 @@
 
 - **Garments Management System**: Spring Boot + Angular + MySQL. Full-stack automation of garments operations from client registration to production.
 - **ATM Machine Simulator**: Java Swing + MySQL. GUI app for deposits, withdrawals, profile management with custom rules.
-- **Quiz App (Android/Flutter)**: Gamified quiz platform using Firebase with leaderboard, coins, and spinning reward systems.
+- **Quiz App (Flutter)**: Gamified quiz platform using Firebase with leaderboard, coins, and spinning reward systems.
 
 ---
 
@@ -132,11 +132,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsajib&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsajib&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsajib&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsajib&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhsajib&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhsajib&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ $ whoami
 sheikhsajib
 
 $ skills --list
-Java, Spring Boot, Angular, Flutter, MySQL, Firebase, Android, WordPress
+Java, Spring Boot, Angular, Flutter, MySQL, Firebase, WordPress
 
 $ contact --email
 sajibsheikh9@gmail.com
