@@ -31,140 +31,90 @@
 
 ---
 
-<style>
-  .category-section {
-    margin: 30px 0;
-  }
+## 📱 Mobile Application Development
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
+</p>
 
-  .category-title {
-    font-weight: bold;
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-    text-align: left;
-  }
+---
 
-  .icons-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-  }
+## 🔙 Back-End Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40"/>
+</p>
 
-  .hexagon {
-    width: 60px;
-    height: 52px;
-    clip-path: polygon(
-      25% 0%, 75% 0%, 
-      100% 50%, 75% 100%, 
-      25% 100%, 0% 50%
-    );
-    background: #f0f0f0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  }
+---
 
-  .hexagon img {
-    width: 35px;
-    height: 35px;
-    object-fit: contain;
-  }
-</style>
+## 🧠 Front-End Web Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
+</p>
 
-<div class="category-section">
-  <div class="category-title">📱 Mobile Application Development</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /></div>
-  </div>
-</div>
-<hr />
+---
 
-<div class="category-section">
-  <div class="category-title">🔙 Back-End Development</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" /></div>
-  </div>
-</div>
-<hr />
+## 🗄️ Database Management
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/>
+</p>
 
-<div class="category-section">
-  <div class="category-title">🧠 Front-End Web Development</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" /></div>
-  </div>
-</div>
-<hr />
+---
 
-<div class="category-section">
-  <div class="category-title">🗄️ Database Management</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" /></div>
-    <div class="hexagon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /></div>
-  </div>
-</div>
-<hr />
+## ☁️ API & Hosting
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/apache.svg" alt="Apache" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/cpanel-icon.svg" alt="cPanel" width="40"/>
+</p>
 
-<div class="category-section">
-  <div class="category-title">☁️ API & Hosting</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></div>
-    <div class="hexagon"><img src="https://cdn.worldvectorlogo.com/logos/apache.svg" alt="Apache" /></div>
-    <div class="hexagon"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" /></div>
-    <div class="hexagon"><img src="https://cdn.worldvectorlogo.com/logos/cpanel-icon.svg" alt="cPanel" /></div>
-  </div>
-</div>
-<hr />
+---
 
-<div class="category-section">
-  <div class="category-title">🧪 Tools & Workflow</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" /></div>
-  </div>
-</div>
-<hr />
+## 🧪 Tools & Workflow
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40"/>
+</p>
 
-<div class="category-section">
-  <div class="category-title">🎨 Design & UI Tools</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" /></div>
-    <div class="hexagon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" /></div>
-    <div class="hexagon"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" /></div>
-  </div>
-</div>
-<hr />
+---
 
-<div class="category-section">
-  <div class="category-title">🧰 Miscellaneous</div>
-  <div class="icons-container">
-    <div class="hexagon"><img src="https://img.icons8.com/fluency/48/quality.png" alt="QA" /></div>
-    <div class="hexagon"><img src="https://img.icons8.com/color/48/report-card.png" alt="Jasper Reports" /></div>
-    <div class="hexagon"><img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" /></div>
-    <div class="hexagon"><img src="https://img.icons8.com/fluency/48/seo.png" alt="SEO" /></div>
-    <div class="hexagon"><img src="https://img.icons8.com/color/48/design.png" alt="Graphic Design" /></div>
-  </div>
-</div>
+## 🎨 Design & UI Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40"/>
+</p>
+
+---
+
+## 🧰 Miscellaneous
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/quality.png" alt="QA" width="40"/>
+  <img src="https://img.icons8.com/color/48/report-card.png" alt="Jasper Reports" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/seo.png" alt="SEO" width="40"/>
+  <img src="https://img.icons8.com/color/48/design.png" alt="Graphic Design" width="40"/>
+</p>
 
 ---
 
