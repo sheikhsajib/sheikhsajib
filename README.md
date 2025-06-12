@@ -6,9 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Followers" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Issues" />
 </p>
 
 ---
