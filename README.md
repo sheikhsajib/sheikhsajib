@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Sheikh Sajib</span></h1>
 <h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true&row=1" alt="trophies" />
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true" 
+       alt="trophies" 
+       style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 
