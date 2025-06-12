@@ -1,13 +1,39 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Sheikh Sajib</span></h1>
 <h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
-<div class="column" style="width:33.33%; max-width:400px; margin:auto; margin-bottom:30px;"></div>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-      <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
-    </a>
-  </p>
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheikhsajib&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
+
+
+<style>
+  @media (max-width: 600px) {
+    .hide-on-mobile {
+      display: none;
+    }
+  }
+</style>
+<p align="center" class="hide-on-mobile">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
+  </a>
+</p>
+
+
+
+<p align="center" class="hide-on-desktop"></p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
+  </a>
+</p>
+<style>
+  @media (min-width: 601px) {
+    .hide-on-desktop {
+      display: none;
+    }
+  }
+</style>
 
 ---
 
