@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Sheikh Sajib</span></h1>
 <h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheikhsajib&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
-
-
-<!-- Only show on desktop -->
-<p align="center" class="hide-on-mobile">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
-  </a>
-</p>
 <!-- Only show on mobile -->
 <p align="center" class="hide-on-desktop">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
