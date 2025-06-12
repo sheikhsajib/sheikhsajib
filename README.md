@@ -2,15 +2,16 @@
 <h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheikhsajib&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Discussions" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&title=MultiLanguage,Repositories,Followers,Commits,Stars&theme=gruvbox&margin-w=15&no-frame=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&title=Issues,PullRequest,Discussions,Organizations&theme=gruvbox&margin-w=15&no-frame=true" />
-</p>
 
 
 ---
