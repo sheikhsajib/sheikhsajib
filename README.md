@@ -2,9 +2,9 @@
 <h3 align="center">💻 Full Stack Java Developer | 📱 Flutter Enthusiast</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true" 
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox" 
        alt="trophies" 
-       style="max-width: 100%; height: auto;" />
+       style="max-width: auto; height: auto;" />
 </div>
 
 ---
