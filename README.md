@@ -7,33 +7,18 @@
 </p>
 
 
-<style>
-  @media (max-width: 600px) {
-    .hide-on-mobile {
-      display: none;
-    }
-  }
-</style>
-<p align="center" class="hide-on-mobile">
+<!-- Only show on desktop -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
   </a>
 </p>
-
-
-
-<p align="center" class="hide-on-desktop"></p>
+<!-- Only show on mobile -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/api?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
   </a>
 </p>
-<style>
-  @media (min-width: 601px) {
-    .hide-on-desktop {
-      display: none;
-    }
-  }
-</style>
 
 ---
 
