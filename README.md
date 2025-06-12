@@ -30,7 +30,7 @@
 
 ### 📱 Mobile Application Development
 <p align="center">
-  <img src="https://github.com/sheikhsajib/GitHub-Profile-Decoration/blob/main/Icons/Screenshot%20From%202025-06-12%2015-45-08.png" alt="Flutter" width="40"/>
+  <img src="https://github.com/sheikhsajib/GitHub-Profile-Decoration/blob/main/Icons/Screenshot_From_2025-06-12_15-45-08-removebg-preview.png" alt="Flutter" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/>
