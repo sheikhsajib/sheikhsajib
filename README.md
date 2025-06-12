@@ -6,15 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=MultiLanguage" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Repositories" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&title=MultiLanguage,Repositories,Followers,Commits,Stars&theme=gruvbox&margin-w=15&no-frame=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Commits" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Stars" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&no-frame=true&title=Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&title=Issues,PullRequest,Discussions,Organizations&theme=gruvbox&margin-w=15&no-frame=true" />
 </p>
+
 
 ---
 
