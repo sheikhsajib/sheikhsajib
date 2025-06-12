@@ -3,7 +3,7 @@
 
 <div style="overflow-x:auto; width:100%;"></div>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true" 
+    src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=15&no-frame=true&column=4" 
     alt="trophies"
     style="min-width:600px; width:900px; max-width:none; height:auto; display:block; margin:auto;"
   />
