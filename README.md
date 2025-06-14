@@ -131,6 +131,19 @@
 
 ---
 
+
+---
+
+### 🏆 Scores / Ranking
+
+<p align="center" style="padding: 10px 0;">
+  <img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="40" />
+  <img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="40" />
+  <img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="40" />
+</p>
+
+---
+
 ### 📄 License
 
 <p align="center">
