@@ -141,19 +141,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsajib&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsajib&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="320" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsajib&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhsajib&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="420" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhsajib&theme=chartreuse-dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sheikhsajib&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420" />
+  </a>
 </p>
 
-<!-- --- 🐍 GitHub Contribution Snake -->
-<!--
+---
+
+### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheikhsajib/sheikhsajib/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sheikhsajib/sheikhsajib/output/github-contribution-grid-snake.svg" alt="Sheikh Sajib Snake Trail" />
 </p>
--->
 
 ---
 
