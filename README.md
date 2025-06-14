@@ -123,14 +123,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- **Garments Management System**: Spring Boot + Angular + MySQL. Full-stack automation of garments operations from client registration to production.
-- **ATM Machine Simulator**: Java Swing + MySQL. GUI app for deposits, withdrawals, profile management with custom rules.
-- **Quiz App (Flutter)**: Gamified quiz platform using Firebase with leaderboard, coins, and spinning reward systems.
-
----
-
 
 ---
 
@@ -141,6 +133,14 @@
   <img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="40" />
   <img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="40" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- **Garments Management System**: Spring Boot + Angular + MySQL. Full-stack automation of garments operations from client registration to production.
+- **ATM Machine Simulator**: Java Swing + MySQL. GUI app for deposits, withdrawals, profile management with custom rules.
+- **Quiz App (Flutter)**: Gamified quiz platform using Firebase with leaderboard, coins, and spinning reward systems.
 
 ---
 
