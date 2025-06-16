@@ -4,7 +4,7 @@
 <!-- Only show on mobile -->
 <p align="center" class="hide-on-desktop">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sheikhsajib&theme=gruvbox&margin-w=10&no-frame=true&column=4" alt="trophies" />
   </a>
 </p>
 
